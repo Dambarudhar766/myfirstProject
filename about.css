@@ -1,0 +1,14 @@
+a{
+    display: inline-block;
+    margin: 20px;
+    padding: 10px 20px;
+    background-color: rgb(158, 40, 237);
+    color: rgb(245, 185, 111);
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+a:hover{
+    background-color: rgb(235, 56, 92);
+}
